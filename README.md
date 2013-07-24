@@ -1,6 +1,8 @@
 # Activerecord::FixtureBuilder
 
-TODO: Write a gem description
+A simple fixture builder for active record.
+
+(no rails required)
 
 ## Installation
 
